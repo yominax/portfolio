@@ -32,8 +32,8 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 - Stockage et modélisation dans BigQuery  
 - Transformation et tests de qualité via dbt  
 
-**Technologies :** `Python`, `DLT`, `Airflow`, `BigQuery`, `dbt`, `Docker`, `GCP`  
-**Résultat :** Pipeline entièrement automatisé et observable, assurant la qualité et la fraîcheur des données.  
+**Technologies :** `Python`, `DLT`, `Airflow`, `BigQuery`, `dbt`, `Docker`, `Azure`  
+**Résultat :** Pipeline entièrement automatisé et observable, assurant la qualité et mis a jour des données.  
 
 [ Voir le projet sur GitHub](https://github.com/yominax/dlt-pipeline)
 
