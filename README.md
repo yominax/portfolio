@@ -1,6 +1,6 @@
 # Data Engineer Portfolio
 
-Bienvenue, je suis **Sidi Mohamed **, Data Engineer passionné par la conception de pipelines, la gestion de données temps réel et l’automatisation des flux analytiques.  
+Bienvenue, je suis **Sidi Mohamed**, Data Engineer passionné par la conception de pipelines, la gestion de données temps réel et l’automatisation des flux analytiques.  
 Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de travaux annexes liés à la data et à l’ingénierie logicielle.
 
 ---
