@@ -1,7 +1,7 @@
 # Data Engineer Portfolio
 
 Bienvenue, je suis **Sidi Mohamed**, Data Engineer passionné par la conception de pipelines, la gestion de données temps réel et l’automatisation des flux analytiques.  
-Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de travaux annexes liés à la data et à l’ingénierie logicielle.
+Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de travaux annexes liés à la data engineering et la data analyse.
 
 ---
 
@@ -19,7 +19,7 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 **Technologies :** `Python`, `Apache Kafka`, `Apache Spark`, `Delta Lake`, `AWS`, `Tableau`  
 **Résultat :** Tableau de bord interactif affichant les sujets en tendance avec un pipeline scalable et automatisé.  
 
-[🔗 Voir le projet sur GitHub](https://github.com/yominax/realtime-trend)
+[ Voir le projet sur GitHub](https://github.com/yominax/realtime-trend)
 
 ---
 
@@ -35,7 +35,7 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 **Technologies :** `Python`, `DLT`, `Airflow`, `BigQuery`, `dbt`, `Docker`, `GCP`  
 **Résultat :** Pipeline entièrement automatisé et observable, assurant la qualité et la fraîcheur des données.  
 
-[🔗 Voir le projet sur GitHub](https://github.com/yominax/dlt-pipeline)
+[ Voir le projet sur GitHub](https://github.com/yominax/dlt-pipeline)
 
 ---
 
@@ -52,11 +52,11 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 
 ##  Compétences Clés
 
-- **Data Engineering :** Spark, Airflow, Kafka, dbt, DLT, Dataflow  
-- **Cloud :** AWS, GCP, Docker, Kubernetes  
+- **Data Engineering :** Spark, Airflow, Kafka, dbt, DLT, Databricks 
+- **Cloud :** Azure, Docker, Kubernetes  
 - **DataOps :** CI/CD, Observabilité, Monitoring  
-- **Langages :** Python, SQL, Bash  
-- **Visualisation :** Tableau, Power BI, Plotly  
+- **Langages :** Python, SQL  
+- **Visualisation :** Tableau, Power BI, Streamlit  
 
 ---
 
