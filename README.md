@@ -14,7 +14,7 @@ Résultat : un tableau de bord interactif affichant les tendances émergentes en
 
  **Aperçu du site Streamlit :** [https://realtime-trend.streamlit.app](https://realtime-trend.streamlit.app)  
 
-![Aperçu du projet Realtime-Trend](https://github.com/user-attachments/assets/54d2f6e4-003e-4bce-870f-dad39be92483)
+
 
 ---
 
@@ -25,6 +25,9 @@ Conception d’un pipeline ETL moderne avec Data Load Tool (DLT) et Airflow pour
 Déploiement sur Azure avec Databricks et dbt pour la modélisation et la qualité des données.  
 Résultat : pipeline automatisé, traçable et maintenable, garantissant la fraîcheur des données.
 
+
+
+![Aperçu du projet Realtime-Trend](https://github.com/user-attachments/assets/54d2f6e4-003e-4bce-870f-dad39be92483)
 ---
 
 ## Autres Projets
