@@ -43,7 +43,7 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 
 | Projet | Description |
 |--------|--------------|
-| **[Netflix-ETL-Pipeline](https://github.com/yominax/netflix-etl-pipeline)** | Pipeline ETL pour nettoyer et structurer les données Netflix. |
+| **[Netflix-ETL-Pipeline](https://github.com/yominax/Netflix-Data-Cleaning-ETL))** | Pipeline ETL pour nettoyer et structurer les données Netflix. |
 | **[Real-Time-Stock-Tracker](https://github.com/yominax/real-time-stock-tracker)** | Simulation d’un flux de données boursières en temps réel. |
 | **[Retail-Sales-Analytics](https://github.com/yominax/retail-sales-analytics)** | Analyse de ventes et génération de rapports à partir d’un fichier CSV. |
 
