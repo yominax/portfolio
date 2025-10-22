@@ -62,5 +62,5 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 
 ##  Profils & Liens
 
-- [💼 LinkedIn](https://www.linkedin.com/in/sidi-m-412081374/)  
-- [🐙 GitHub](https://github.com/yominax)
+- [ LinkedIn](https://www.linkedin.com/in/sidi-m-412081374/)  
+- [ GitHub](https://github.com/yominax)
