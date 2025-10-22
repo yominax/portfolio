@@ -41,12 +41,12 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 
 ##  Autres Projets
 
-| Projet | Description | Statut |
-|--------|--------------|--------|
-| **ETL-Sales-Analytics** | Pipeline ETL pour analyser les ventes e-commerce (Airflow + dbt) 
-| **Data-Monitoring-Dashboard** | Outil de monitoring pour la qualité des données (Grafana + Prometheus) 
-| **Spark-Optimization-Lab** | Expérimentations sur la performance de Spark et la gestion mémoire 
-| **API-Data-Aggregator** | API REST pour agréger et servir des données de multiples sourc
+| Projet | Description |
+|--------|--------------|
+| **[Netflix-ETL-Pipeline](https://github.com/yominax/netflix-etl-pipeline)** | Pipeline ETL pour nettoyer et structurer les données Netflix. |
+| **[Real-Time-Stock-Tracker](https://github.com/yominax/real-time-stock-tracker)** | Simulation d’un flux de données boursières en temps réel. |
+| **[Retail-Sales-Analytics](https://github.com/yominax/retail-sales-analytics)** | Analyse de ventes et génération de rapports à partir d’un fichier CSV. |
+
 
 ---
 
