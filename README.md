@@ -11,9 +11,9 @@ Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de 
 **Objectif :** Développer une architecture complète pour collecter, traiter et visualiser des données en temps réel à partir de flux de réseaux sociaux.  
 
 **Description :**  
-- Ingestion de données en streaming (Kafka / API / WebSockets)  
+- Ingestion de données en streaming (Kafka / API)  
 - Transformation et enrichissement via Spark Streaming  
-- Stockage sur Data Lake (Delta Lake / S3)  
+- Stockage sur Data Lake (Delta Lake)  
 - Tableau de bord temps réel pour la visualisation des tendances  
 
 **Technologies :** `Python`, `Apache Kafka`, `Apache Spark`, `Delta Lake`, `AWS`, `Tableau`  
