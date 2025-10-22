@@ -1,66 +1,44 @@
 # Data Engineer Portfolio
 
-Bienvenue, je suis **Sidi Mohamed**, Data Engineer passionné par la conception de pipelines, la gestion de données temps réel et l’automatisation des flux analytiques.  
-Ce portfolio regroupe mes projets les plus aboutis ainsi qu’une sélection de travaux annexes liés à la data engineering et la data analyse.
+Je m’appelle **Sidi Mohamed**, Data Engineer spécialisé dans la conception de pipelines, la gestion de données temps réel et le développement de solutions analytiques sur le cloud Azure.  
+Ce portfolio présente mes projets en data engineering et data analyse.
 
 ---
 
-##  Projets Principaux
+## Projets Principaux
 
-### 1. **Realtime-Trend**
-**Objectif :** Développer une architecture complète pour collecter, traiter et visualiser des données en temps réel à partir de flux de réseaux sociaux.  
+**[Realtime-Trend](https://github.com/yominax/trends-realtime)**  
+Développement d’une architecture complète pour ingérer, traiter et visualiser des données de réseaux sociaux en temps réel.  
+Implémentation de pipelines distribués avec Kafka et Spark, stockage dans Delta Lake et visualisation sur Tableau.  
+Résultat : un tableau de bord interactif affichant les tendances émergentes en direct.
 
-**Description :**  
-- Ingestion de données en streaming (Kafka / API)  
-- Transformation et enrichissement via Spark Streaming  
-- Stockage sur Data Lake (Delta Lake)  
-- Tableau de bord temps réel pour la visualisation des tendances  
-
-**Technologies :** `Python`, `Apache Kafka`, `Apache Spark`, `Delta Lake`, `AWS`, `Tableau`  
-**Résultat :** Tableau de bord interactif affichant les sujets en tendance avec un pipeline scalable et automatisé.  
-
-[ Voir le projet sur GitHub](https://github.com/yominax/realtime-trend)
+**[DLT-Pipeline](https://github.com/yominax/pipeline-databricks-dbt-airflow)**  
+Conception d’un pipeline ETL moderne avec Data Load Tool (DLT) et Airflow pour automatiser la collecte, la validation et la transformation des données.  
+Déploiement sur Azure avec Databricks et dbt pour la modélisation et la qualité des données.  
+Résultat : pipeline automatisé, traçable et maintenable, garantissant la fraîcheur des données.
 
 ---
 
-### 2. **DLT-Pipeline**
-**Objectif :** Créer un pipeline ETL moderne et maintenable basé sur **Data Load Tool (DLT)** pour automatiser la collecte et le traitement de données analytiques.  
-
-**Description :**  
-- Orchestration du pipeline avec Airflow  
-- Intégration DLT pour ingestion et validation automatique  
-- Stockage et modélisation dans BigQuery  
-- Transformation et tests de qualité via dbt  
-
-**Technologies :** `Python`, `DLT`, `Airflow`, `BigQuery`, `dbt`, `Docker`, `Azure`  
-**Résultat :** Pipeline entièrement automatisé et observable, assurant la qualité et mis a jour des données.  
-
-[ Voir le projet sur GitHub](https://github.com/yominax/dlt-pipeline)
-
----
-
-##  Autres Projets
+## Autres Projets
 
 | Projet | Description |
 |--------|--------------|
 | **[Netflix-ETL-Pipeline](https://github.com/yominax/Netflix-Data-Cleaning-ETL)** | Pipeline ETL pour nettoyer et structurer les données Netflix. |
-| **[Real-Time-Stock-Tracker](https://github.com/yominax/real-time-stock-tracker)** | Simulation d’un flux de données boursières en temps réel. |
-| **[Retail-Sales-Analytics](https://github.com/yominax/retail-sales-analytics)** | Analyse de ventes et génération de rapports à partir d’un fichier CSV. |
-
-
----
-
-##  Compétences Clés
-
-- **Data Engineering :** Spark, Airflow, Kafka, dbt, DLT, Databricks 
-- **Cloud :** Azure, Docker, Kubernetes  
-- **DataOps :** CI/CD, Observabilité, Monitoring  
-- **Langages :** Python, SQL  
-- **Visualisation :** Tableau, Power BI, Streamlit  
+| **[Real-Time-Stock-Tracker](https://github.com/yominax/real-time-stock-tracker)** | Simulation et analyse de flux boursiers en continu. |
+| **[Retail-Sales-Analytics](https://github.com/yominax/retail-sales-analytics)** | Analyse de ventes et génération de rapports automatisés. |
 
 ---
 
-##  Profils & Liens
+## Compétences
 
-- [ LinkedIn](https://www.linkedin.com/in/sidi-m-412081374/)  
-- [ GitHub](https://github.com/yominax)
+Data Engineering : Spark, Airflow, Kafka, dbt, DLT, Databricks  
+Cloud : Azure, Docker, Kubernetes  
+Outils : Power BI, Streamlit  
+Langages : Python, SQL  
+
+---
+
+## Profils
+
+[LinkedIn](https://www.linkedin.com/in/sidi-m-412081374/)  
+[GitHub](https://github.com/yominax)
