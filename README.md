@@ -14,7 +14,7 @@ Résultat : un tableau de bord interactif affichant les tendances émergentes en
 
 👉 **Aperçu du site Streamlit :** [https://realtime-trend.streamlit.app](https://realtime-trend.streamlit.app)  
 
-![Aperçu du projet Realtime-Trend]([https://github.com/user-attachments/assets/781497ff-0551-4fad-bd62-51a301b1e3ce]
+![Aperçu du projet Realtime-Trend]([[https://github.com/user-attachments/assets/781497ff-0551-4fad-bd62-51a301b1e3ce](https://github.com/user-attachments/assets/6f62506f-b3fe-4ed9-8c64-258394286c7d)]
 
 **[DLT-Pipeline](https://github.com/yominax/pipeline-databricks-dbt-airflow)**  
 Conception d’un pipeline ETL moderne avec Data Load Tool (DLT) et Airflow pour automatiser la collecte, la validation et la transformation des données.  
