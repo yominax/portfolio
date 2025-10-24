@@ -12,7 +12,7 @@ Développement d’une architecture complète pour ingérer, traiter et visualis
 Implémentation de pipelines distribués avec Kafka et Spark, stockage dans Delta Lake et visualisation sur Tableau et Streamlit.  
 Résultat : un tableau de bord interactif affichant les tendances émergentes en direct.  
 
- **Aperçu du site Streamlit :** [https://realtime-trend.streamlit.app](https://realtime-trend.streamlit.app)  
+ **Aperçu du site Streamlit :** https://realtime-trend-4.onrender.com/
 
 
 
