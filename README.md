@@ -7,7 +7,7 @@ Ce portfolio présente mes projets en data engineering et data analyse.
 
 ## Realtime-Trend
 
-**[Lien GitHub](https://github.com/yominax/trends-realtime)**  
+**[Lien GitHub](https://github.com/yominax/realtime-trend)**  
 Développement d’une architecture complète pour ingérer, traiter et visualiser des données de réseaux sociaux en temps réel.  
 Implémentation de pipelines distribués avec Kafka et Spark, stockage dans Delta Lake et visualisation sur Tableau et Streamlit.  
 Résultat : un tableau de bord interactif affichant les tendances émergentes en direct.  
