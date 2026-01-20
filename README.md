@@ -19,8 +19,8 @@ Résultat : un tableau de bord interactif affichant les tendances émergentes en
 ---
 
 ## DLT-Pipeline
+**[Lien GitHub](https://github.com/yominax/etl-dbt-airflow-dashboard))**  
 
-**[Lien GitHub]([https://github.com/yominax/pipeline-databricks-dbt-airflow](https://github.com/yominax/etl-dbt-airflow-dashboard))**  
 Conception d’un pipeline ETL moderne avec Data Load Tool (DLT) et Airflow pour automatiser la collecte, la validation et la transformation des données.  
 Déploiement sur Azure avec Databricks et dbt pour la modélisation et la qualité des données.  
 Résultat : pipeline automatisé, traçable et maintenable, garantissant la fraîcheur des données.
