@@ -46,10 +46,3 @@ Data Engineering : Spark, Airflow, Kafka, dbt, DLT, Databricks
 Cloud : Azure, Docker, Kubernetes  
 Outils : Power BI, Streamlit  
 Langages : Python, SQL  
-
----
-
-## Profils
-
-[LinkedIn](https://www.linkedin.com/in/sidi-m-412081374/)  
-[GitHub](https://github.com/yominax)
